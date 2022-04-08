@@ -11,6 +11,6 @@ One can change the time parameter (in seconds) on line 452 in the code to run th
 
 After running the simulation for hours, days or weeks, the data from all the three sheets can be used for analysis either together or separately for each individual stablecoin and ETH. 
 
-Amount-in and amont-out is shown from Uniswap's perspective. Look at this data from the trader's perspective for eg. ETH swapped for USDT is taken as ETH sold __(this will be reflected as ETH amount in and USDT amount out on the excel sheet from Uniswap's perspective)__. Mirror this ETH sale on Binance and calculate the profit/loss. 
+Amount-in and amont-out in the excel file is shown from Uniswap's perspective. Look at this data from the trader's perspective, for eg. ETH swapped for USDT is taken as ETH sold __(this will be reflected as ETH amount in and USDT amount out on the excel sheet from Uniswap's perspective, so make sure you viw this as ETH sold and not ETH bought)__. Mirror this ETH sale on Binance and calculate the profit/loss. 
 
 Similarly, continue to mirror trade each Uniswap transaction on Binance at real-time respective prices and then calculate the total net profit/loss position over the entire run time period. 
