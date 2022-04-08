@@ -7,7 +7,7 @@ It should be noted that this is solely for research purposes to gain a better un
 ### Instructions:
 Running this code creates an excel file called “thread.xlsx” on the user’s machine. The file contains 3 sheets (for the 3 stablecoins used - DAI, USDT and USDC). 
 
-One can change the time parameter (in seconds) on line ** in the code to run the simulation for longer, default is set to 60 seconds. 
+One can change the time parameter (in seconds) on line 452 in the code to run the simulation for longer, default is set to 60 seconds. 
 
 After running the simulation for hours, days or weeks, the data from all the three sheets can be used for analysis either together or separately for each individual stablecoin and ETH. 
 
