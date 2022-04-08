@@ -19,7 +19,7 @@ The excel fetches the real time trades from Uniswap and the corresponding ETH pr
 
 Continue those calculations in the same excel file. I am attaching a demo file called "demo.xlsm" that shows my calculation for one of the stablecoins and ETH, over 5 hours of run time. 
 
-A range of net profit/loss position is calculated keeping in mind the time lag between querying the trade from Uniswap and exectuing it's mirror transaction on Binance. This is done by taking the corresponding ETH price on Binance just as it fetched by the script, as one end of the range. The other end of the range considers the ETH price at the time of the next immediate query made by the script, accounting for new ETH after the slight delay that might happen during execution. (Excel macros have been used to do this last bit of calculation, thus the file has an extension of .xlsm. To view this, enable macros when you download and open the file.)
+A range of net profit/loss position is calculated keeping in mind the time lag between querying the trade from Uniswap and exectuing it's mirror transaction on Binance. This is done by taking the corresponding ETH price on Binance just as it is fetched by the script, as one end of the range. The other end of the range considers the ETH price at the time of the next immediate query made by the script, accounting for new ETH after the slight delay that might happen during execution. (Excel macros have been used to do this last bit of calculation, thus the file has an extension of .xlsm. To view this, enable macros when you download and open the file.)
 
 
 
