@@ -1,5 +1,5 @@
 # Crypto_MirrorTrading_Simulation
-Simulates a mirror trading technique between a DEX and CEX on a real-time basis. 
+Simulates a mirror trading technique between a DEX and CEX on a real-time basis. (DEX:Uniswap, CEX: Binance, Asset:ETH)
 
 ### Disclaimer:
 It should be noted that this is solely for research purposes to gain a better understanding of price movements in the crypto markets. I do not recommend using this script for trading purposes. Please do your own research about the outcomes of this trading technique while also keeping in mind ethical and legal aspects around mirror trading. Neither do I guarantee returns, and nor am I aware of the ethical or legal aspects of using this strategy.
